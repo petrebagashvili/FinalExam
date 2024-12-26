@@ -149,7 +149,7 @@ font-style: normal;
 font-weight: 700;
 line-height: 150%; /* 18px */
 }
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 1400px) {
     .container{
         display: flex;
         flex-direction: column-reverse;
